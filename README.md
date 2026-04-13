@@ -28,10 +28,8 @@ O sistema gera estatísticas automáticas:
 🥶 Pior filme (menor nota)
 📂 Quantidade de filmes por gênero
 🏆 Top 3 filmes com maiores notas
-
 ❌ 5. Sair
 Encerra o programa
-
 🧠 Conceitos utilizados
 Manipulação de arquivos (.csv)
 Listas e dicionários
@@ -51,6 +49,6 @@ Normalização de texto (remoção de acentos com unicodedata)
 
 Projeto desenvolvido para prática de:
 
-lógica de programação
-manipulação de dados
-estrutura de sistemas em Python
+Lógica de programação
+Manipulação de dados
+Estrutura de sistemas em Python
