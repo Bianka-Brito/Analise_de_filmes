@@ -58,11 +58,10 @@ Encerra o programa.
 ---
 
 ## 📂 Estrutura do projeto
-project-name/
-├── src/
-├── data/
-├── tests/
-└── README.md
+📁 Analise_de_filmes
+├── 📂 src
+├── 📂 data
+└── 📄 README.md
 
 ## 👩‍💻 Autora
 
