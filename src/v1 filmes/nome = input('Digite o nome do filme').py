@@ -8,7 +8,7 @@ def remover_acentos(texto):
 
 filmes = [ ]
 
-with open("C:/Users/biankac/Desktop/Analise de filmes/data/filmes.csv", "r", encoding="utf-8") as arquivo:
+with open("filmes.csv", "r", encoding="utf-8") as arquivo:
     next(arquivo) #pula cabeçalho
     for linha in arquivo: 
         linha= linha.strip()
@@ -47,7 +47,7 @@ while True:
         else: 
             filmes.append([nome,genero,nota])
 
-            with open("C:/Users/biankac/Desktop/Analise de filmes/data/filmes.csv", "a", encoding="utf-8") as arquivo:
+            with open("filmes.csv", "a", encoding="utf-8") as arquivo:
                 arquivo.write(f"{nome},{genero},{nota}\n")
             
             print('Arquivo salvo!')
