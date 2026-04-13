@@ -58,3 +58,9 @@ Encerra o programa.
 ---
 
 ## 📂 Estrutura do projeto
+##📁 projeto-filmes
+│
+├── filmes.py
+├── data/
+│ └── filmes.csv
+└── README.md
