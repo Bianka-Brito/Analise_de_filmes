@@ -58,9 +58,16 @@ Encerra o programa.
 ---
 
 ## 📂 Estrutura do projeto
-##📁 projeto-filmes
-│
-├── filmes.py
+project-name/
+├── src/
 ├── data/
-│ └── filmes.csv
+├── tests/
 └── README.md
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido para prática de:
+
+- Lógica de programação  
+- Manipulação de dados  
+- Estrutura de sistemas em Python  
