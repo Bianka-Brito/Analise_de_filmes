@@ -1,6 +1,6 @@
 import unicodedata 
 
-#normaliza o texto do genero 
+#normaliza o texto 
 def remover_acentos(texto):
     texto=unicodedata.normalize('NFD', texto)
     texto= ''.join(c for c in texto if unicodedata.category(c) != 'Mn')
