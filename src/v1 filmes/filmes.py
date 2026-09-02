@@ -79,7 +79,7 @@ while True:
                     if not encontrou:
                         print('Genêro invalido!')
             
-            #filmes com notas igual ou maiores que 7 
+            #filmes com notas igual ou maior que 7 
             elif escolha == 3: 
                 for f in filmes: 
                     if f[2] >= 7:
